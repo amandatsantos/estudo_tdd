@@ -1,8 +1,9 @@
 <h1>Repositorio voltado ao desafio #100DiasDeCodigo</h1> 
 
 
-<p> O objetivo aceitando esse desafio é de aprofundar mais em testes além de aperfeiçoar um pouco a mais o meu desenvolviemnto em php. Nesse reposoitorio terá resumos de alguns materiais que serão utilizados para o estudo além de arquivos de codigo  botando o conhecimento teorico em pratica. Para todos os dias haverá um pequeno resumno geral do que foi estudado.</p>
+<p> 
+Aceitando esse desafio, meu objetivo é mergulhar mais profundamente no mundo dos testes de software e aprimorar ainda mais minhas habilidades de desenvolvimento em PHP. No repositório que estou criando, planejo armazenar resumos dos materiais de estudo que vou utilizar, juntamente com arquivos de código que permitirão colocar em prática o conhecimento teórico adquirido. A cada dia, irei registrar um breve resumo geral do que foi estudado, ajudando-me a consolidar o aprendizado e acompanhar o meu progresso de forma sistemática.</p>
 <ol>
-    <li>  preparando ambiente de estudo e de desenvolvimento <br><p> dia de estudo dos conceitos basicos de sobre TDD, sobre seu proposito de utilização e instalação do ambiente php <p></br> </li>
+    <li>  preparando ambiente de estudo e de desenvolvimento <br><p> dia de estudo dos conceitos basicos de sobre TDD, seu proposito de utilização e instalação do ambiente php <p></br> </li>
 
 </ol>
