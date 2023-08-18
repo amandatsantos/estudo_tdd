@@ -7,3 +7,7 @@
 <h3> Dia  2 - 16/08/2023 </h3>
 <p> dia 2/100 dos materiais selecionados me indicaram alguns livros para o estudo dos quais separei 3 que irei utilizar para estudar nessa jornada: TDD- Desenvolvimento Guiado por Testes, Padrões de Projeto e projeto orientado à domínio. Para as leituras optei por iniciar com Desenvolviemtno guiado por testes. </p>
 
+<h3> Dia  3 - 17/08/2023 </h3>
+<p> dia 3/100 aproveitando que no dia 2/100 fiz a leitura dos 5 capitulos, revisei e partir para o desenvolvimento dos teste de acordo com os exemplos do livros.
+Esse primeiro exemplo é o "O exemplo financeiro" divido em parte, na primeira parte é proposta a criação de codigo completamente guiado a testes - a ideia é cometer erros propositais para fixar alguns conceitos e pegar o ritmo desse tipo de desenvolvimento que é -> adicionar um teste rapido - rodar os teste e ver a falah -.  fazer mudanças pequenas -> rodar os teste e ver o funcionamento -> refatorar e remover coisas repetidas.  o inicio do exemplo é com o dinehro multi moeda, onde obejtivo é e gerar um relatorio  de varias moedas que passam por converssão, nesse probelma é necessario adicionar moedas e especificar a taxa de cambio, a principio  tem que somar valores de moedas diferentes e converter o resultado e dar o conjunto de taxas de cambio e ter  a capacidade de multiplicar o valor por um numero n para receber a quantia- relação do preco da ação pela quantidade. </p>
+
